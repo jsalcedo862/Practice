@@ -1,2 +1,2 @@
-# Practice repo A
+# Practice repo B
 ## About
