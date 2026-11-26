@@ -1,2 +1,2 @@
-# Git Practice
+# Practice repo B
 ## About
